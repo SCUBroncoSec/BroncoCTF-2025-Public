@@ -1,0 +1,3 @@
+I cannot wait to write the flag in plaintext.
+But first, let me take some steps in case I am being keylogged...
+bronco{l0gg1ng_ftw}

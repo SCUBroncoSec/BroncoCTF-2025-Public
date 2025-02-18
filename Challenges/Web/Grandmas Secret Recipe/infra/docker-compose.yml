@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+    miku:
+        container_name: grandma
+        build: .
+        restart: always
+        ports:
+            - '80:80'

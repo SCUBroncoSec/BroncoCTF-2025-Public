@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+    login-osint:
+        container_name: osint
+        build: .
+        restart: always
+        ports:
+            - '80:80'

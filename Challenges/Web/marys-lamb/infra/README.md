@@ -1,0 +1,1 @@
+For the web server, run `npm build` then copy the dist folder to the flask server. Then make your docker image. 

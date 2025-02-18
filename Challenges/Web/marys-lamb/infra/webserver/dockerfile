@@ -1,0 +1,5 @@
+FROM nginx:mainline
+
+COPY dist /usr/share/nginx/html
+
+ENV NGINX_HOST=mary.web.broncoctf.xyz
